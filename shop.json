@@ -51,7 +51,8 @@
   ],
   "categories":[
 	{"id":1,"name":"Bilgisayar"},
-	{"id":2,"name":"Elektronik"}
+	{"id":2,"name":"Elektronik"},
+  {"id":3,"name":"Ekran Kartı"}
 	
   ]
 }
