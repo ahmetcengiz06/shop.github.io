@@ -17,42 +17,26 @@
       "imageUrl":"https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8cGhvbmV8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
     },
     {
-      "id": 2,
-      "name": "Telefon",
-      "price": 10000,
-      "categoryId": 2,
-      "description": "Iphone",
-      "imageUrl":"https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8cGhvbmV8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+      "id": 3,
+      "name": "İşlemci",
+      "price": 5000,
+      "categoryId": 4,
+      "description": "AMD Ryzen 7 3700x",
+      "imageUrl":"https://cdn.pixabay.com/photo/2015/09/09/22/05/cooler-933691__340.jpg"
     },
     {
-      "id": 2,
-      "name": "Telefon",
+      "id": 4,
+      "name": "Ekran Kartı",
       "price": 10000,
-      "categoryId": 2,
-      "description": "Iphone",
-      "imageUrl":"https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8cGhvbmV8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
-    },
-    {
-      "id": 2,
-      "name": "Telefon",
-      "price": 10000,
-      "categoryId": 2,
-      "description": "Iphone",
-      "imageUrl":"https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8cGhvbmV8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
-    },
-    {
-      "id": 2,
-      "name": "Telefon",
-      "price": 10000,
-      "categoryId": 2,
-      "description": "Iphone",
-      "imageUrl":"https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8cGhvbmV8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+      "categoryId": 3,
+      "description": "Asus Tuf NVIDIA RTX 2070",
+      "imageUrl":"https://cdn.pixabay.com/photo/2020/06/06/01/03/nvidia-5264914__340.jpg"
     }
   ],
   "categories":[
 	{"id":1,"name":"Bilgisayar"},
 	{"id":2,"name":"Elektronik"},
-  {"id":3,"name":"Ekran Kartı"}
-	
+  {"id":3,"name":"Ekran Kartı"},
+	{"id":4,"name":"İşlemci"}
   ]
 }
